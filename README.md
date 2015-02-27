@@ -1,6 +1,6 @@
 # dresscolor
 
-*Note: this depends on the quality of the picture. If the original photo is proven to be tampered with or just plain bad photography then take these results with a grain of salt.*
+*Note: This depends on the quality of the picture. If the original photo is proven to be tampered with or just plain bad photography then take these results with a grain of salt.*
 
 Trying to solve The Great Internet Debate of 2/26/15. This is Python program that determines the top 8 colors prominent in the picture. Reads the image file and generates rectangles that represent each of the 8 colors. Uses the PIL library.
 
