@@ -6,6 +6,6 @@ Mirror just in case: http://i.imgur.com/EPEQ8Nl.jpg
 
 <h2>Usage</h2>
 
-* Run using Python2.7
+* Run with Python2.7
 
 
