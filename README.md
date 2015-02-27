@@ -7,6 +7,6 @@ Mirror just in case: http://i.imgur.com/EPEQ8Nl.jpg
 
 <h2>Usage</h2>
 
-* Run with Python2.7
+* Save image as "a.jpg" and run in the same directory with Python2.7
 
 
