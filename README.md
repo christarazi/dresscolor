@@ -1,4 +1,4 @@
-# dresscolor
+# Determining the dress color
 
 *Note: This depends on the quality of the picture. If the original photo is proven to be tampered with or just plain bad photography, then take these results with a grain of salt.*
 
